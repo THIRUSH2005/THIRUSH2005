@@ -31,7 +31,7 @@
 📚 Always learning new technologies and improving coding skills
 
 📫 Reach me:
-**yourmail@example.com**
+**thirushbalaji2005@gmail.com**
 
 ---
 
@@ -103,13 +103,13 @@
 
 # 📈 Contribution Graph
 
-[![Thirush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Thirush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=THIRUSH2005&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=THIRUSH2005&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
@@ -138,7 +138,7 @@
 
 # 🌟 Quote
 
-> "Code. Learn. Build. Repeat."
+> "Like a wolf, I walk my own path—not to stand above others, but to become a better version of myself with every challenge." 🐺
 
 ---
 
