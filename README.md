@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=THIRUSH2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
